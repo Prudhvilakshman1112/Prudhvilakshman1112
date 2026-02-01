@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Pilla Prudhvi Lakshman
+#  Hi, I'm Pilla Prudhvi Lakshman
 
 I am an **Artificial Intelligence undergraduate** and **AI Developer** dedicated to building intelligent systems and automating complex data workflows. I specialize in **Natural Language Processing (NLP)**, **Retrieval-Augmented Generation (RAG)**, and creating AI-driven solutions that solve real-world problems.
 

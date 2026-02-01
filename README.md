@@ -29,8 +29,10 @@ I am an **Artificial Intelligence undergraduate** and **AI Developer** dedicated
 * **CodeChef 2-Star:** Reached a peak rating of **1458**.
 
 ### 📊 GitHub Stats
-![Prudhvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prudhvilakshman1112&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prudhvilakshman1112&layout=compact&theme=radical)
+![Prudhvi's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Prudhvilakshman1112&show_icons=true&theme=radical&hide_border=true)
+
+### 💻 Top Languages
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prudhvilakshman1112&layout=compact&theme=radical&hide_border=true)
 
 ### 📫 Connect with me
 * **LinkedIn:** [linkedin.com/in/prudhvi-lakshman](https://www.linkedin.com/in/prudhvi-lakshman)
